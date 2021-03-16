@@ -18,7 +18,7 @@
                                 class="item"
                                 :style="getStyle(i)"
                             >
-                                {{ n }}
+                                <!-- {{ n }} -->
                             </div>
                         </div>
                     </div>
