@@ -29,6 +29,7 @@
 </template>
 
 <script>
+// do something
 export default {
     components: {},
     data() {
